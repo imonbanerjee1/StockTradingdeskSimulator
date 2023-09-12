@@ -22,7 +22,6 @@ StockTradingdeskSimulator is a standalone Java application developed using the S
 ## Project Structure
 
 - `SwingApp.java`: Main application class with the GUI and entry point.
-- `README.md`: Project documentation.
 - `positionmanager/`: Package containing position management code, including buying and selling shares.
 - `trading/`: Package containing classes related to various types of stocks.
 
